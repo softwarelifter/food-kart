@@ -1,0 +1,24 @@
+entities:
+1. restaurants
+2. menus
+3. items
+4. user
+5. order
+
+features:
+1. restaurants onboarding with menu and processing capacity
+2. menus addition and update
+3. Once the item is fulfilled the system gets the notification of it which adds back the processing capacity of that restaurant.
+4. user can add order, giving multiple items and quantity details
+5. restaurant selection strategy: lowest price offered by the restaurant for that item.
+6. Have the option of selection using a different strategy.
+7. System should be able to keep track of all items served by each restaurant.
+8. Option to mark the order as delivered, so that restaurant can add the capacity back
+
+conditions:
+1. max processing capacity at a time
+2. preparation time is same for every items
+3. order is accepted only when one or more restaurants can fullfill the order
+
+requirements:
+1. 
