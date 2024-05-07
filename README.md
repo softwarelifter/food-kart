@@ -56,4 +56,3 @@ MarkAsDelivered
 [{‘order_id’: ‘order1’}
 Print all restaurant details
 [{‘name’: ‘resta1’, ‘menu’: {‘king_burger’: 15, ‘samosa_pizza’: 20, ‘alu_pasta’: 19, ‘bendi_macaroni’: 8}, ‘total_capacity’: 15, ‘capacity_in_use’: 0},{‘name’: ‘resta2’, ‘menu’: {‘bendi_macaroni’: 12, ‘samosa_pizza’: 25, ‘alu_pasta’: 17}, ‘total_capacity’: 12, ‘capacity_in_use’: 0}]
-
